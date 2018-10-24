@@ -6,6 +6,7 @@ fish shell plugin: GCP project selector.
 - [Google CLOUD SDK](https://cloud.google.com/sdk/) >= 221.0.0
     - Add [config configurations](https://cloud.google.com/sdk/gcloud/reference/config/configurations/)
 - [peco](https://github.com/peco/peco) >= 0.5.1
+- [fisher](https://github.com/jorgebucaran/fisher) >= 3.1.1
 
 ## Installation
 With [fisher](https://github.com/jorgebucaran/fisher)
