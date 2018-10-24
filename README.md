@@ -32,21 +32,21 @@ Ctrl + g -> p
 ## Alias
 Default alias name: `gpj`.   
 Update this file, if you want to change alias name.  
-`<your_fish_shell_pass>/conf.d/peco_select_gcp_project_key_bindings.fish`
+`<your_fish_shell_pass>/conf.d/peco_select_gcp_project.fish`
 ```fish
-alias gpj "peco_select_gcp_project"
+set plugin_alias "gpj"
 ↓
-alias <your_alias> "peco_select_gcp_project"
+set plugin_alias <your_alias>
 ```
 
 ## Keybind(option)
 Default keybind: Ctrl + g -> p.  
 Update this file, if you want to change keybind.  
-`<your_fish_shell_pass>/functions/fish_user_key_bindings.fish`
+`<your_fish_shell_pass>/conf.d/peco_select_gcp_project_key_bindings.fish`
 ```fish
-bind \cgp peco_select_gcp_project
+set plugin_keybind \cgp
 ↓
-bind <your_keybind> peco_select_gcp_project
+et plugin_keybind <your_keybind>
 ```
 
 ## License
