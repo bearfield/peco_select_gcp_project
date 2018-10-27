@@ -47,7 +47,7 @@ Update this file, if you want to change keybind.
 ```fish
 set plugin_keybind \cgp
 ↓
-et plugin_keybind <your_keybind>
+set plugin_keybind <your_keybind>
 ```
 
 ## License
