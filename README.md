@@ -40,7 +40,7 @@ set plugin_alias "gpj"
 set plugin_alias <your_alias>
 ```
 
-## Keybind(option)
+## Keybind
 Default keybind: Ctrl + g -> p.  
 Update this file, if you want to change keybind.  
 `<your_fish_shell_pass>/conf.d/peco_select_gcp_project_key_bindings.fish`
