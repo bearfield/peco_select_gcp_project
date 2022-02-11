@@ -11,7 +11,7 @@ fish shell plugin: GCP project selector.
 ## Installation
 With [fisher](https://github.com/jorgebucaran/fisher)
 ```console
-fisher add kumanoryo/peco_select_gcp_project
+fisher install kumanoryo/peco_select_gcp_project
 ```
 
 ## Usage
