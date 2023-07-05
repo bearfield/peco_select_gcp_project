@@ -1,6 +1,6 @@
 WORK_DIR=/workspaces
 SHELL=/usr/bin/fish
-OWNER_NAME=kumanoryo
+OWNER_NAME=bearfield
 REPO_NAME=peco_select_gcp_project
 SOURCE_FILE=~/.config/fish/functions/$(REPO_NAME).fish
 
